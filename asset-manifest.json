@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3203edb6.css",
-    "main.js": "/static/js/main.5376ac56.js",
-    "static/js/488.d25d00c9.chunk.js": "/static/js/488.d25d00c9.chunk.js",
-    "index.html": "/index.html",
-    "main.3203edb6.css.map": "/static/css/main.3203edb6.css.map",
-    "main.5376ac56.js.map": "/static/js/main.5376ac56.js.map",
-    "488.d25d00c9.chunk.js.map": "/static/js/488.d25d00c9.chunk.js.map"
+    "main.css": "/leagalMind-react/static/css/main.3203edb6.css",
+    "main.js": "/leagalMind-react/static/js/main.baa9116f.js",
+    "static/js/488.d25d00c9.chunk.js": "/leagalMind-react/static/js/488.d25d00c9.chunk.js",
+    "index.html": "/leagalMind-react/index.html",
+    "main.3203edb6.css.map": "/leagalMind-react/static/css/main.3203edb6.css.map",
+    "main.baa9116f.js.map": "/leagalMind-react/static/js/main.baa9116f.js.map",
+    "488.d25d00c9.chunk.js.map": "/leagalMind-react/static/js/488.d25d00c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3203edb6.css",
-    "static/js/main.5376ac56.js"
+    "static/js/main.baa9116f.js"
   ]
 }
